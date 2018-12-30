@@ -1,2 +1,2 @@
 # Python-project
-Project based on python + sql
+Project based on python + SQL
